@@ -1,6 +1,6 @@
 # assignment
 
-Creatd REST API for the following functionality using Express(Nodejs) & MongoDB
+ REST API for the following functionality using Express(Nodejs) & MongoDB
 •Signup
 •Login
 •Fetch User List
